@@ -3,7 +3,11 @@
 Real-time visualisation of aircraft flying over Paris, built in Python from the
 [OpenSky Network](https://opensky-network.org/) API.
 
-▶️ **[Voir la vidéo de démonstration](avions_video2.mp4)**
+
+
+https://github.com/user-attachments/assets/430b5911-bfa4-43e1-a531-89268451a8ba
+
+
 
 ## Features
 - Authenticated access to OpenSky (OAuth2 client credentials, automatic token refresh)
